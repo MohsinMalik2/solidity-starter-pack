@@ -2,6 +2,10 @@
 
 # remix.ethereum.org  (IDE for testing Smart Contracts)
 
+# Helping material about solidity:
+
+https://dev.to/gbengelebs/introduction-to-solidity-228c
+
 # simple storage Contract includes: 
 
  1. Data entry
